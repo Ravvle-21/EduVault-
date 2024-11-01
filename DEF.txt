@@ -1,0 +1,1 @@
+GitHub is just Git on the cloud.
